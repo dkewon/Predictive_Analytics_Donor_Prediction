@@ -14,4 +14,4 @@ maximize the resources.
 stepwise regression, lift curve, AUC**
 
 
-![alt text](file:///Users/deborahkewon/Desktop/Screen%20Shot%202019-08-21%20at%2010.12.46%20PM.png)
+![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/68917407_2652636758081747_5564348449450622976_o.jpg?_nc_cat=105&_nc_oc=AQl5s8H0Bg3jvo4TStuw4llJAFI48EN-_pyr0nrA5lZIIOggwI2uY1XBxVvzu7_Xh8Q&_nc_ht=scontent-cdg2-1.xx&oh=7b902d451857ff0f1fea2b455db18a48&oe=5DDF5649)
